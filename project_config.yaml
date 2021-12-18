@@ -3,8 +3,8 @@ root_folder: machine-learning-24549
 mongodb:
   is_cloud: 1
   user_name: surjit
-  password: Singh@123
-  url: mongodb+srv://{0}:{1}@cluster0.jjfj4.mongodb.net/<dbname>?retryWrites=true&w=majority
+  password: singh123
+  url: mongodb+srv://{0}:{1}@cluster0.svnvj.mongodb.net/<dbname>?retryWrites=true&w=majority
 cloud_storage:
   azure_blob_storage:
     connection_str: DefaultEndpointsProtocol=https;AccountName=surjit84;AccountKey=n+gJjtsOascmdY2nG4j60BGkW93CD6GHb0RyDO0qjLUen3oP/+7Guqu48oPYgEyumBlqE3wLu/3koaFzJEKmWA==;EndpointSuffix=core.windows.net
