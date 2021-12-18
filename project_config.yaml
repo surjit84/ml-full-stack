@@ -1,15 +1,13 @@
-root_folder: machine-learning-7236723
+root_folder: machine-learning-24549
 
 mongodb:
   is_cloud: 1
-  user_name: Avnish
-  password: OtAAp629
-  url: mongodb+srv://{0}:{1}@cluster0.5fvxl.mongodb.net/<dbname>?retryWrites=true&w=majority
-
-
+  user_name: surjit
+  password: Singh@123
+  url: mongodb+srv://{0}:{1}@cluster0.jjfj4.mongodb.net/<dbname>?retryWrites=true&w=majority
 cloud_storage:
   azure_blob_storage:
-    connection_str: DefaultEndpointsProtocol=https;AccountName=ineuronstorage327030;AccountKey=EoKopRrOYEPLQl8K2hxyvh2mxR9Z0cLkFkiiGfkAB1FbfOScZdiUFgW7/kr9TBFS0a3uUgfOT/J28w+xv6tbtw==;EndpointSuffix=core.windows.net
+    connection_str: DefaultEndpointsProtocol=https;AccountName=surjit84;AccountKey=n+gJjtsOascmdY2nG4j60BGkW93CD6GHb0RyDO0qjLUen3oP/+7Guqu48oPYgEyumBlqE3wLu/3koaFzJEKmWA==;EndpointSuffix=core.windows.net
   aws_s3_bucket:
     name: aws_access_key
     Access Key ID: AKIAQLOZZIL6AO6IOTMP
@@ -32,12 +30,12 @@ session:
   secret-key: ec6935d1-0e2c-4998-b7ed-809e8cb0fcda
 
 user_detail:
-  email_id: avnish@ineuron.ai
+  email_id: surjit84.singh@gmail.com
   role_id: 1
 
 email_config:
-  sender_email_id: yadav.tara.avnish@gmail.com
-  passkey: hvisqnpnehvifpls
+  sender_email_id: surjit84.singh@gmail.com
+  passkey: mkbtyqtrsgxguskn
   receiver_email_id:
-    - yadav.tara.avnish@gmail.com
-    - anishyadav7045075175@gmail.com
+    - surjit84.singh@gmail.com
+    - surjit84.singh@outlook.com
